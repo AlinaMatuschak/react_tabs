@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","TitleList.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CCFA,cACE,eACF","file":"main.294637bb.chunk.css","sourcesContent":[".App {\r\n  padding: 50px 80px;\r\n}\r\n",".button:focus {\n  outline-width: 0;\n}\n"]}
